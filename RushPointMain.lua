@@ -1,10 +1,5 @@
 --[[
     AimHot v8, Herrtt#3868, Modified for Rush Point by men#2983
-
-
-    I decided to make it open source for all the new scripters out there (including me), don't ripoff or claim this as your own.
-    When I get time I will comment a lot of the stuff here.
-
 ]]
 
 local playerFolder = workspace.MapFolder.Players
