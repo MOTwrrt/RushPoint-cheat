@@ -1,5 +1,6 @@
 --[[
-    AimHot v8, Herrtt#3868
+    AimHot v8, Herrtt#3868, Modified for Rush Point by men#2983
+
 
     I decided to make it open source for all the new scripters out there (including me), don't ripoff or claim this as your own.
     When I get time I will comment a lot of the stuff here.
@@ -21,8 +22,6 @@ for _,player in next, game:GetService('Players'):GetPlayers() do
     return playerIndex(self, key)
   end
 end
-
--- Extremly bad code starts below here
 
 local DEBUG_MODE = false -- warnings, prints and profiles dont change idiot thanks
 
