@@ -1,5 +1,5 @@
 --[[
-    AimHot v8, Herrtt#3868, Modified for Rush Point by men#2983
+    AimHot v8, Herrtt#3868, Modified for Rush Point by MOTwrrt#2983
 ]]
 
 local playerFolder = workspace.MapFolder.Players
@@ -1845,7 +1845,7 @@ do
         local viewportsize = camera.ViewportSize
         if credits == nil then
             credits = newdrawing("Text", {
-                Text = "AimHot Rush Point, Herrtt#3868 - men#2983"; -- yes now be happy this is free
+                Text = "AimHot Rush Point, Herrtt#3868 - MOTwrrt#2983"; -- yes now be happy this is free
                 Color = Color3.new(255,255,255);
                 Size = 25.0;
                 Transparency = .8;
