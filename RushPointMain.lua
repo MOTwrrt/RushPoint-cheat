@@ -1,5 +1,5 @@
 --[[
-    AimHot v8, Herrtt#3868, Modified for Rush Point by MOTwrrt#2983
+    AimHot v8, Herrtt#3868, Modified for Rush Point by credit#2983
 ]]
 
 local playerFolder = workspace.MapFolder.Players
