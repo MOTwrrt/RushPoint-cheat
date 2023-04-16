@@ -1845,7 +1845,7 @@ do
         local viewportsize = camera.ViewportSize
         if credits == nil then
             credits = newdrawing("Text", {
-                Text = "AimHot Rush Point, Herrtt#3868 - credit#2983"; -- yes now be happy this is free
+                Text = "AimHot Rush Point, Herrtt#3868 - motwrrt#2983"; -- yes now be happy this is free
                 Color = Color3.new(255,255,255);
                 Size = 25.0;
                 Transparency = .8;
